@@ -8,7 +8,7 @@ the **Docker SDK for Python**, **SQLite** and a plain **HTML/JavaScript** page.
 
 ---
 
-## How It Works (in Simple Words)
+## How It Works 
 
 1. **Docker runs your apps in containers.** Normally you check on them by typing commands like `docker ps`.
 2. **DockerDash shows all of them in a web page instead**, at `http://localhost:9000`.
